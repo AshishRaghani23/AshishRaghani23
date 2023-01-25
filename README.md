@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Raghani</h1>
 <h3 align="center">Computer Vision | Deep Learning | Data Scientist | NLP</h3>
 
-- 🌱 I’m currently learning **State of the art Dl and ML algorithms**
+- 🌱 I’m currently learning **State of the art Al and ML algorithms**
 
 - 🤝 I am open to collaborating on **Computer Vision projects**
 
